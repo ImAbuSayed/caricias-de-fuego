@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/caricias-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Caricias de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-fuego/) |
+| **Get License** | [License this song: Caricias de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/caricias-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Caricias de fuego, baby, quémame la piel
+> Tú sabes que tus besos siempre me saben a miel
+> Tirando los billetes, coronando otro nivel
+> Esta noche no dormimos, vámonos para el hotel
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
